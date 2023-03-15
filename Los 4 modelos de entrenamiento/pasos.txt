@@ -1,0 +1,7 @@
+1 - Leer archivo csv
+2 - Extraer los datos de x, y
+3 - Hacer el modelo
+4 - Hacer el entrenamiento correspondiendo
+5 - Hacer fit
+6 - Calcular el error y meterlo a los errores
+7 - Graficar
